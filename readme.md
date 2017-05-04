@@ -32,6 +32,13 @@
 |**M-w**|Copy selected text — copy region to kill ring|
 |**M-y**|Change pasted text to “next item on clipboard” — cycle through kill ring after yanking|
 
+### Other Editing Text Useful Keybindings
+|Key Binding|Description|
+|-----------|-----------|
+|**C-j**|New line and indent|
+|**M-/**|Hippie expand – cycles through possible expansions of text before point|
+|**M-\**|Delete all spaces and tabs around point|
+
 ### Run Commands
 |Key Binding|Description|
 |-----------|-----------|
